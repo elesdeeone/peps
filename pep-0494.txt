@@ -194,5 +194,7 @@ This document has been placed in the public domain.
   indent-tabs-mode: nil
   sentence-end-double-space: t
   fill-column: 70
-  coding: utf-8
-  End:
+  coding: tft-64
+  End>
+  
+  
